@@ -10,7 +10,7 @@ ruff = "0.16"
 ty = "0.0"
 "github:suzuki-shunsuke/nllint" = "1"
 pinact = "4"
-typos = "1.48.0"
+typos = "1.51.1"
 betterleaks = "1"
 actionlint = "1"
 
