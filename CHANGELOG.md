@@ -1,3 +1,11 @@
+## What's Changed in 2.5.1
+* ci(deps): update github actions by @renovate[bot] in [#22](https://github.com/YewFence/fly_video_assignment_away/pull/22)
+
+### New Contributors
+* @renovate[bot] made their first contribution in [#22](https://github.com/YewFence/fly_video_assignment_away/pull/22)
+
+**Full Changelog**: https://github.com/YewFence/fly_video_assignment_away/compare/v2.5.0...v2.5.1
+
 ## What's Changed in 2.5.0
 * package Windows executable as zip instead of bare exe by @YewFence
 * 更新数据持久化说明与卸载指引 by @YewFence
